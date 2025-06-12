@@ -1,4 +1,3 @@
-# project
 # 👋 Hi, I'm [Naman Pawar] — a Passionate Developer
 
 Welcome to my GitHub repository! I'm a developer who loves building efficient, scalable, and user-friendly software. Whether it's web apps, automation tools, or open-source contributions, I'm always exploring new technologies and solving real-world problems with code.
